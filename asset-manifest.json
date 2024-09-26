@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atomy/static/css/main.b451e8f7.css",
+    "main.js": "/atomy/static/js/main.5be00aa6.js",
+    "index.html": "/atomy/index.html",
+    "main.b451e8f7.css.map": "/atomy/static/css/main.b451e8f7.css.map",
+    "main.5be00aa6.js.map": "/atomy/static/js/main.5be00aa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b451e8f7.css",
+    "static/js/main.5be00aa6.js"
+  ]
+}
